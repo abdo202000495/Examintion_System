@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z2IywUYAT/o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\almanar\\source\\repos\\ExaminationSystem\\ExaminationSystem\\ExaminationSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\almanar\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.102\\microsoft.net.sdk.compilers.toolset.9.0.102.nupkg.sha512"
+  ],
+  "logs": []
+}

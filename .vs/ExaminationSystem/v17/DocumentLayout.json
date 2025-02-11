@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\almanar\\source\\repos\\ExaminationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFCB04A-2447-41B0-AB59-0944A22CCC86}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\almanar\\source\\repos\\examinationsystem\\examinationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFCB04A-2447-41B0-AB59-0944A22CCC86}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFCB04A-2447-41B0-AB59-0944A22CCC86}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\almanar\\source\\repos\\examinationsystem\\examinationsystem\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFCB04A-2447-41B0-AB59-0944A22CCC86}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFCB04A-2447-41B0-AB59-0944A22CCC86}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\almanar\\source\\repos\\examinationsystem\\examinationsystem\\chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFCB04A-2447-41B0-AB59-0944A22CCC86}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFCB04A-2447-41B0-AB59-0944A22CCC86}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\almanar\\source\\repos\\examinationsystem\\examinationsystem\\chooseallquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFCB04A-2447-41B0-AB59-0944A22CCC86}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\chooseallquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFCB04A-2447-41B0-AB59-0944A22CCC86}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\almanar\\source\\repos\\examinationsystem\\examinationsystem\\true_false_questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFCB04A-2447-41B0-AB59-0944A22CCC86}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\true_false_questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFCB04A-2447-41B0-AB59-0944A22CCC86}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\almanar\\source\\repos\\examinationsystem\\examinationsystem\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFCB04A-2447-41B0-AB59-0944A22CCC86}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFCB04A-2447-41B0-AB59-0944A22CCC86}|ExaminationSystem\\ExaminationSystem.csproj|c:\\users\\almanar\\source\\repos\\examinationsystem\\examinationsystem\\questionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFCB04A-2447-41B0-AB59-0944A22CCC86}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\questionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 724,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\almanar\\source\\repos\\ExaminationSystem\\ExaminationSystem\\Exam.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Exam.cs",
+              "ToolTip": "C:\\Users\\almanar\\source\\repos\\ExaminationSystem\\ExaminationSystem\\Exam.cs",
+              "RelativeToolTip": "ExaminationSystem\\Exam.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAMwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:18:12.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChooseAllQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\almanar\\source\\repos\\ExaminationSystem\\ExaminationSystem\\ChooseAllQuestion.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\ChooseAllQuestion.cs",
+              "ToolTip": "C:\\Users\\almanar\\source\\repos\\ExaminationSystem\\ExaminationSystem\\ChooseAllQuestion.cs",
+              "RelativeToolTip": "ExaminationSystem\\ChooseAllQuestion.cs",
+              "ViewState": "AgIAABAAAAAAZmZmZmYSwB4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:59:46.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChooseOneQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\almanar\\source\\repos\\ExaminationSystem\\ExaminationSystem\\ChooseOneQuestion.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\ChooseOneQuestion.cs",
+              "ToolTip": "C:\\Users\\almanar\\source\\repos\\ExaminationSystem\\ExaminationSystem\\ChooseOneQuestion.cs",
+              "RelativeToolTip": "ExaminationSystem\\ChooseOneQuestion.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:59:28.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "True_False_questions.cs",
+              "DocumentMoniker": "C:\\Users\\almanar\\source\\repos\\ExaminationSystem\\ExaminationSystem\\True_False_questions.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\True_False_questions.cs",
+              "ToolTip": "C:\\Users\\almanar\\source\\repos\\ExaminationSystem\\ExaminationSystem\\True_False_questions.cs",
+              "RelativeToolTip": "ExaminationSystem\\True_False_questions.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:59:09.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\almanar\\source\\repos\\ExaminationSystem\\ExaminationSystem\\Question.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Question.cs",
+              "ToolTip": "C:\\Users\\almanar\\source\\repos\\ExaminationSystem\\ExaminationSystem\\Question.cs",
+              "RelativeToolTip": "ExaminationSystem\\Question.cs",
+              "ViewState": "AgIAAA8AAACAZmZmZmYawBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:58:12.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuestionList.cs",
+              "DocumentMoniker": "C:\\Users\\almanar\\source\\repos\\ExaminationSystem\\ExaminationSystem\\QuestionList.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\QuestionList.cs",
+              "ToolTip": "C:\\Users\\almanar\\source\\repos\\ExaminationSystem\\ExaminationSystem\\QuestionList.cs",
+              "RelativeToolTip": "ExaminationSystem\\QuestionList.cs",
+              "ViewState": "AgIAACAAAACA//////8fwCwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:04:32.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\almanar\\source\\repos\\ExaminationSystem\\ExaminationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\almanar\\source\\repos\\ExaminationSystem\\ExaminationSystem\\Program.cs",
+              "RelativeToolTip": "ExaminationSystem\\Program.cs",
+              "ViewState": "AgIAAIMAAADAzMzMzMwowKQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:35:10.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 100,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 100,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
